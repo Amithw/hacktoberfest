@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Amithw](https://github.com/Amithw)
+- Place: Alawwa, Sri Lanka
+- Bio: Web developer PHP 
+- Github: [Amithw](https://github.com/Amithw)
